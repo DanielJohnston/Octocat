@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch could theoretically be thought of as a separate project, as the files, version tracking etc. diverge at the point of branching. However, the intention is to use a branch to work on specific aspects of a project in isolation, either merging them back into the master or building a specific 'flavour' of a project.
