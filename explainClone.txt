@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone creates a local clone of a repository. This can then be worked on locally, and pushed back to a remote repository to synchronise any updates
