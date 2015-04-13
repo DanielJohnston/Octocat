@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is usually a central repository for shared development of a project, and acts as the canonical project store for everyone to work against. This is a social rather than technical requirement.
